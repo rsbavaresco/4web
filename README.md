@@ -1,5 +1,5 @@
 
-# FourWeb
+# FourWeb [![Travis](https://img.shields.io/travis/rsbavaresco/4web.svg?maxAge=3600&label=travis)](https://travis-ci.org/rsbavaresco/4web)
 
 # Gerência da Configuração
 ## Artefatos 
